@@ -1,4 +1,4 @@
-# final-project-so
+# FINAL PROJECT SO
 
 This project comprises a driver for Raspberry Pi that enables the control of a buzzer through the general-purpose ports of the Rpi. The aim is to manipulate the buzzer's PWM to create interesting sounds.
 
